@@ -1,4 +1,4 @@
-# iFutureTaskTwo
+# ifuture2
 
 `iFutureTaskTwo` is a Java web application that displays and manages a tree-like file structure. The project is designed to be deployed to Apache Tomcat and persists the tree state in PostgreSQL through Hibernate.
 
